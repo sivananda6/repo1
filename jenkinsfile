@@ -1,0 +1,4 @@
+//jenkinsfile
+pipeline {
+    echo "file is ready"
+}
